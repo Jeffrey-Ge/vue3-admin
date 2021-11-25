@@ -6,8 +6,6 @@
 
 [vue3-element-admin](http://admin.xueyueob.cn) 是一个后台前端解决方案，它基于 [vue3](https://v3.cn.vuejs.org/guide/migration/introduction.html) 和 [element-plus](https://element-plus.gitee.io/#/zh-CN)实现。使用了最新的前端技术栈 [vite](https://cn.vitejs.dev/)，提供最基础的框架模型，可以帮助你快速搭建中后台产品原型。PS：我是参考 [@PanJiaChen](https://github.com/PanJiaChen) 开发维护的 [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)， 十分感谢大佬对开源社区做出的贡献 :)
 
-- [在线预览](http://au1996.github.io/vue3-element-admin/)
-
 ## 前序准备
 
 你需要在本地安装 [node](http://nodejs.org/) 和 [git](https://git-scm.com/)。本项目技术栈基于 [ES2015+](http://es6.ruanyifeng.com/)、[vue3](https://v3.cn.vuejs.org/)、[vuex](https://next.vuex.vuejs.org/)、[vue-router](https://next.router.vuejs.org/) 、[vite](https://cn.vitejs.dev/) 、[axios](https://github.com/axios/axios) 和 [element-plus](https://element-plus.gitee.io/#/zh-CN)，提前了解和学习这些知识会对使用本项目有很大的帮助。
