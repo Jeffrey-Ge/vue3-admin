@@ -8,16 +8,12 @@ import './styles/index.scss' // global css
 import App from './App.vue'
 import router from './router'
 import store from './store'
-import Directives from './directive'
+import locale from '@/utils/zh-cn.js'
 
 import './permission' // permission control
-import { DateFormat } from '@/utils/util'
 
 const app = createApp(App)
-app.use(ElementPlus)
-app.use(Directives)
+app.use(ElementPlus, { locale })
 app.use(router).use(store).mount('#app')
-
-app.provide('$DateFormat', DateFormat)
 
 export default app

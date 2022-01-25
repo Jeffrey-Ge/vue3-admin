@@ -1,0 +1,1355 @@
+[
+  {
+    "modifiedTime": null,
+    "path": "1,32",
+    "createTime": null,
+    "level": 2,
+    "fullName": "中国,江苏省",
+    "orderBy": 10,
+    "id": 32,
+    "label": "江苏省",
+    "office": "",
+    "childrenList": [
+      
+      {
+        "modifiedTime": null,
+        "path": "1,32,320200000000",
+        "createTime": null,
+        "level": 3,
+        "fullName": "中国,江苏省,无锡市",
+        "orderBy": 2,
+        "id": 320200000000,
+        "label": "无锡市",
+        "office": "",
+        "childrenList": [
+          {
+            "modifiedTime": null,
+            "path": "1,32,320200000000,320205000000",
+            "createTime": null,
+            "level": 4,
+            "fullName": "中国,江苏省,无锡市,锡山区",
+            "orderBy": 1,
+            "id": 320205000000,
+            "label": "锡山区",
+            "office": "",
+            "childrenList": [
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320205000000,320205001000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,锡山区,东亭街道",
+                "orderBy": 1,
+                "id": 320205001000,
+                "label": "东亭街道",
+                "office": "",
+               
+                "parentId": 320205000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320205000000,320205002000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,锡山区,安镇街道",
+                "orderBy": 2,
+                "id": 320205002000,
+                "label": "安镇街道",
+                "office": "",
+               
+                "parentId": 320205000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320205000000,320205003000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,锡山区,东北塘街道",
+                "orderBy": 3,
+                "id": 320205003000,
+                "label": "东北塘街道",
+                "office": "",
+               
+                "parentId": 320205000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320205000000,320205102000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,锡山区,羊尖镇",
+                "orderBy": 4,
+                "id": 320205102000,
+                "label": "羊尖镇",
+                "office": "",
+               
+                "parentId": 320205000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320205000000,320205103000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,锡山区,鹅湖镇",
+                "orderBy": 5,
+                "id": 320205103000,
+                "label": "鹅湖镇",
+                "office": "",
+               
+                "parentId": 320205000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320205000000,320205105000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,锡山区,锡北镇",
+                "orderBy": 6,
+                "id": 320205105000,
+                "label": "锡北镇",
+                "office": "",
+               
+                "parentId": 320205000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320205000000,320205106000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,锡山区,东港镇",
+                "orderBy": 7,
+                "id": 320205106000,
+                "label": "东港镇",
+                "office": "",
+               
+                "parentId": 320205000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320205000000,320205400000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,锡山区,无锡锡山开发区",
+                "orderBy": 8,
+                "id": 320205400000,
+                "label": "无锡锡山开发区",
+                "office": "",
+               
+                "parentId": 320205000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320205000000,320205401000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,锡山区,锡山台湾农民创业园",
+                "orderBy": 9,
+                "id": 320205401000,
+                "label": "锡山台湾农民创业园",
+                "office": "",
+               
+                "parentId": 320205000000
+              }
+            ],
+            "parentId": 320200000000
+          },
+          {
+            "modifiedTime": null,
+            "path": "1,32,320200000000,320206000000",
+            "createTime": null,
+            "level": 4,
+            "fullName": "中国,江苏省,无锡市,惠山区",
+            "orderBy": 2,
+            "id": 320206000000,
+            "label": "惠山区",
+            "office": "",
+            "childrenList": [
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320206000000,320206001000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,惠山区,堰桥街道",
+                "orderBy": 1,
+                "id": 320206001000,
+                "label": "堰桥街道",
+                "office": "",
+               
+                "parentId": 320206000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320206000000,320206002000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,惠山区,长安街道",
+                "orderBy": 2,
+                "id": 320206002000,
+                "label": "长安街道",
+                "office": "",
+               
+                "parentId": 320206000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320206000000,320206003000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,惠山区,钱桥街道",
+                "orderBy": 3,
+                "id": 320206003000,
+                "label": "钱桥街道",
+                "office": "",
+               
+                "parentId": 320206000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320206000000,320206004000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,惠山区,前洲街道",
+                "orderBy": 4,
+                "id": 320206004000,
+                "label": "前洲街道",
+                "office": "",
+               
+                "parentId": 320206000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320206000000,320206005000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,惠山区,玉祁街道",
+                "orderBy": 5,
+                "id": 320206005000,
+                "label": "玉祁街道",
+                "office": "",
+               
+                "parentId": 320206000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320206000000,320206102000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,惠山区,洛社镇",
+                "orderBy": 6,
+                "id": 320206102000,
+                "label": "洛社镇",
+                "office": "",
+               
+                "parentId": 320206000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320206000000,320206103000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,惠山区,阳山镇",
+                "orderBy": 7,
+                "id": 320206103000,
+                "label": "阳山镇",
+                "office": "",
+               
+                "parentId": 320206000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320206000000,320206401000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,惠山区,无锡惠山经济开发区",
+                "orderBy": 8,
+                "id": 320206401000,
+                "label": "无锡惠山经济开发区",
+                "office": "",
+               
+                "parentId": 320206000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320206000000,320206500000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,惠山区,无锡惠山工业转型集聚区",
+                "orderBy": 9,
+                "id": 320206500000,
+                "label": "无锡惠山工业转型集聚区",
+                "office": "",
+               
+                "parentId": 320206000000
+              }
+            ],
+            "parentId": 320200000000
+          },
+
+
+          {
+            "modifiedTime": null,
+            "path": "1,32,320200000000,320211000001",
+            "createTime": null,
+            "level": 4,
+            "fullName": "中国,江苏省,无锡市,经开区",
+            "orderBy": 3,
+            "id": 320211000001,
+            "label": "经开区",
+            "office": "",
+            "childrenList": [
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320211000001,320211006000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,经开区,华庄街道",
+                "orderBy": 5,
+                "id": 320211006000,
+                "label": "华庄街道",
+                "office": "",
+               
+                "parentId": 320211000001
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320211000001,320211007000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,经开区,太湖街道",
+                "orderBy": 6,
+                "id": 320211007000,
+                "label": "太湖街道",
+                "office": "",
+               
+                "parentId": 320211000001
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320211000001,320211008000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,经开区,雪浪街道",
+                "orderBy": 7,
+                "id": 320211008000,
+                "label": "雪浪街道",
+                "office": "",
+               
+                "parentId": 320211000001
+              }
+            ],
+            "parentId": 320200000000
+          },
+
+          {
+            "modifiedTime": null,
+            "path": "1,32,320200000000,320211000000",
+            "createTime": null,
+            "level": 4,
+            "fullName": "中国,江苏省,无锡市,滨湖区",
+            "orderBy": 3,
+            "id": 320211000000,
+            "label": "滨湖区",
+            "office": "",
+            "childrenList": [
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320211000000,320211001000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,滨湖区,河埒街道",
+                "orderBy": 1,
+                "id": 320211001000,
+                "label": "河埒街道",
+                "office": "",
+               
+                "parentId": 320211000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320211000000,320211002000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,滨湖区,荣巷街道",
+                "orderBy": 2,
+                "id": 320211002000,
+                "label": "荣巷街道",
+                "office": "",
+               
+                "parentId": 320211000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320211000000,320211003000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,滨湖区,蠡园街道",
+                "orderBy": 3,
+                "id": 320211003000,
+                "label": "蠡园街道",
+                "office": "",
+               
+                "parentId": 320211000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320211000000,320211004000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,滨湖区,蠡湖街道",
+                "orderBy": 4,
+                "id": 320211004000,
+                "label": "蠡湖街道",
+                "office": "",
+               
+                "parentId": 320211000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320211000000,320211009000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,滨湖区,马山街道",
+                "orderBy": 8,
+                "id": 320211009000,
+                "label": "马山街道",
+                "office": "",
+               
+                "parentId": 320211000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320211000000,320211101000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,滨湖区,胡埭镇",
+                "orderBy": 9,
+                "id": 320211101000,
+                "label": "胡埭镇",
+                "office": "",
+               
+                "parentId": 320211000000
+              }
+            ],
+            "parentId": 320200000000
+          },
+          {
+            "modifiedTime": null,
+            "path": "1,32,320200000000,320213000000",
+            "createTime": null,
+            "level": 4,
+            "fullName": "中国,江苏省,无锡市,梁溪区",
+            "orderBy": 4,
+            "id": 320213000000,
+            "label": "梁溪区",
+            "office": "",
+            "childrenList": [
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320213000000,320213001000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,梁溪区,崇安寺街道",
+                "orderBy": 1,
+                "id": 320213001000,
+                "label": "崇安寺街道",
+                "office": "",
+               
+                "parentId": 320213000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320213000000,320213002000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,梁溪区,通江街道",
+                "orderBy": 2,
+                "id": 320213002000,
+                "label": "通江街道",
+                "office": "",
+               
+                "parentId": 320213000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320213000000,320213003000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,梁溪区,广瑞路街道",
+                "orderBy": 3,
+                "id": 320213003000,
+                "label": "广瑞路街道",
+                "office": "",
+               
+                "parentId": 320213000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320213000000,320213004000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,梁溪区,上马墩街道",
+                "orderBy": 4,
+                "id": 320213004000,
+                "label": "上马墩街道",
+                "office": "",
+               
+                "parentId": 320213000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320213000000,320213005000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,梁溪区,江海街道",
+                "orderBy": 5,
+                "id": 320213005000,
+                "label": "江海街道",
+                "office": "",
+               
+                "parentId": 320213000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320213000000,320213006000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,梁溪区,广益街道",
+                "orderBy": 6,
+                "id": 320213006000,
+                "label": "广益街道",
+                "office": "",
+               
+                "parentId": 320213000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320213000000,320213007000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,梁溪区,迎龙桥街道",
+                "orderBy": 7,
+                "id": 320213007000,
+                "label": "迎龙桥街道",
+                "office": "",
+               
+                "parentId": 320213000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320213000000,320213008000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,梁溪区,南禅寺街道",
+                "orderBy": 8,
+                "id": 320213008000,
+                "label": "南禅寺街道",
+                "office": "",
+               
+                "parentId": 320213000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320213000000,320213009000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,梁溪区,清名桥街道",
+                "orderBy": 9,
+                "id": 320213009000,
+                "label": "清名桥街道",
+                "office": "",
+               
+                "parentId": 320213000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320213000000,320213010000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,梁溪区,金星街道",
+                "orderBy": 10,
+                "id": 320213010000,
+                "label": "金星街道",
+                "office": "",
+               
+                "parentId": 320213000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320213000000,320213011000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,梁溪区,金匮街道",
+                "orderBy": 11,
+                "id": 320213011000,
+                "label": "金匮街道",
+                "office": "",
+               
+                "parentId": 320213000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320213000000,320213012000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,梁溪区,扬名街道",
+                "orderBy": 12,
+                "id": 320213012000,
+                "label": "扬名街道",
+                "office": "",
+               
+                "parentId": 320213000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320213000000,320213013000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,梁溪区,黄巷街道",
+                "orderBy": 13,
+                "id": 320213013000,
+                "label": "黄巷街道",
+                "office": "",
+               
+                "parentId": 320213000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320213000000,320213014000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,梁溪区,山北街道",
+                "orderBy": 14,
+                "id": 320213014000,
+                "label": "山北街道",
+                "office": "",
+               
+                "parentId": 320213000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320213000000,320213015000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,梁溪区,北大街街道",
+                "orderBy": 15,
+                "id": 320213015000,
+                "label": "北大街街道",
+                "office": "",
+               
+                "parentId": 320213000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320213000000,320213016000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,梁溪区,惠山街道",
+                "orderBy": 16,
+                "id": 320213016000,
+                "label": "惠山街道",
+                "office": "",
+               
+                "parentId": 320213000000
+              }
+            ],
+            "parentId": 320200000000
+          },
+          {
+            "modifiedTime": null,
+            "path": "1,32,320200000000,320214000000",
+            "createTime": null,
+            "level": 4,
+            "fullName": "中国,江苏省,无锡市,新吴区",
+            "orderBy": 5,
+            "id": 320214000000,
+            "label": "新吴区",
+            "office": "",
+            "childrenList": [
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320214000000,320214050000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,新吴区,旺庄街道",
+                "orderBy": 1,
+                "id": 320214050000,
+                "label": "旺庄街道",
+                "office": "",
+               
+                "parentId": 320214000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320214000000,320214051000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,新吴区,硕放街道",
+                "orderBy": 2,
+                "id": 320214051000,
+                "label": "硕放街道",
+                "office": "",
+               
+                "parentId": 320214000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320214000000,320214052000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,新吴区,江溪街道",
+                "orderBy": 3,
+                "id": 320214052000,
+                "label": "江溪街道",
+                "office": "",
+               
+                "parentId": 320214000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320214000000,320214053000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,新吴区,新安街道",
+                "orderBy": 4,
+                "id": 320214053000,
+                "label": "新安街道",
+                "office": "",
+               
+                "parentId": 320214000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320214000000,320214054000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,新吴区,梅村街道",
+                "orderBy": 5,
+                "id": 320214054000,
+                "label": "梅村街道",
+                "office": "",
+               
+                "parentId": 320214000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320214000000,320214055000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,新吴区,鸿山街道",
+                "orderBy": 6,
+                "id": 320214055000,
+                "label": "鸿山街道",
+                "office": "",
+               
+                "parentId": 320214000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320214000000,320214450000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,新吴区,无锡新加坡工业园",
+                "orderBy": 7,
+                "id": 320214450000,
+                "label": "无锡新加坡工业园",
+                "office": "",
+               
+                "parentId": 320214000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320214000000,320214451000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,新吴区,无锡高新技术产业开发区",
+                "orderBy": 8,
+                "id": 320214451000,
+                "label": "无锡高新技术产业开发区",
+                "office": "",
+               
+                "parentId": 320214000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320214000000,320214452000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,新吴区,无锡高新区综合保税区",
+                "orderBy": 9,
+                "id": 320214452000,
+                "label": "无锡高新区综合保税区",
+                "office": "",
+               
+                "parentId": 320214000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320214000000,320214453000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,新吴区,无锡太湖国际科技园",
+                "orderBy": 10,
+                "id": 320214453000,
+                "label": "无锡太湖国际科技园",
+                "office": "",
+               
+                "parentId": 320214000000
+              }
+            ],
+            "parentId": 320200000000
+          },
+          {
+            "modifiedTime": null,
+            "path": "1,32,320200000000,320281000000",
+            "createTime": null,
+            "level": 4,
+            "fullName": "中国,江苏省,无锡市,江阴市",
+            "orderBy": 6,
+            "id": 320281000000,
+            "label": "江阴市",
+            "office": "",
+            "childrenList": [
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320281000000,320281001000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,江阴市,澄江街道",
+                "orderBy": 1,
+                "id": 320281001000,
+                "label": "澄江街道",
+                "office": "",
+               
+                "parentId": 320281000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320281000000,320281004000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,江阴市,南闸街道",
+                "orderBy": 2,
+                "id": 320281004000,
+                "label": "南闸街道",
+                "office": "",
+               
+                "parentId": 320281000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320281000000,320281005000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,江阴市,云亭街道",
+                "orderBy": 3,
+                "id": 320281005000,
+                "label": "云亭街道",
+                "office": "",
+               
+                "parentId": 320281000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320281000000,320281007000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,江阴市,申港街道",
+                "orderBy": 4,
+                "id": 320281007000,
+                "label": "申港街道",
+                "office": "",
+               
+                "parentId": 320281000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320281000000,320281008000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,江阴市,利港街道",
+                "orderBy": 5,
+                "id": 320281008000,
+                "label": "利港街道",
+                "office": "",
+               
+                "parentId": 320281000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320281000000,320281009000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,江阴市,夏港街道",
+                "orderBy": 6,
+                "id": 320281009000,
+                "label": "夏港街道",
+                "office": "",
+               
+                "parentId": 320281000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320281000000,320281100000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,江阴市,璜土镇",
+                "orderBy": 7,
+                "id": 320281100000,
+                "label": "璜土镇",
+                "office": "",
+               
+                "parentId": 320281000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320281000000,320281102000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,江阴市,月城镇",
+                "orderBy": 8,
+                "id": 320281102000,
+                "label": "月城镇",
+                "office": "",
+               
+                "parentId": 320281000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320281000000,320281103000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,江阴市,青阳镇",
+                "orderBy": 9,
+                "id": 320281103000,
+                "label": "青阳镇",
+                "office": "",
+               
+                "parentId": 320281000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320281000000,320281104000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,江阴市,徐霞客镇",
+                "orderBy": 10,
+                "id": 320281104000,
+                "label": "徐霞客镇",
+                "office": "",
+               
+                "parentId": 320281000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320281000000,320281107000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,江阴市,华士镇",
+                "orderBy": 11,
+                "id": 320281107000,
+                "label": "华士镇",
+                "office": "",
+               
+                "parentId": 320281000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320281000000,320281108000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,江阴市,周庄镇",
+                "orderBy": 12,
+                "id": 320281108000,
+                "label": "周庄镇",
+                "office": "",
+               
+                "parentId": 320281000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320281000000,320281109000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,江阴市,新桥镇",
+                "orderBy": 13,
+                "id": 320281109000,
+                "label": "新桥镇",
+                "office": "",
+               
+                "parentId": 320281000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320281000000,320281110000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,江阴市,长泾镇",
+                "orderBy": 14,
+                "id": 320281110000,
+                "label": "长泾镇",
+                "office": "",
+               
+                "parentId": 320281000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320281000000,320281111000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,江阴市,顾山镇",
+                "orderBy": 15,
+                "id": 320281111000,
+                "label": "顾山镇",
+                "office": "",
+               
+                "parentId": 320281000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320281000000,320281112000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,江阴市,祝塘镇",
+                "orderBy": 16,
+                "id": 320281112000,
+                "label": "祝塘镇",
+                "office": "",
+               
+                "parentId": 320281000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320281000000,320281400000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,江阴市,江阴高新技术产业开发区",
+                "orderBy": 17,
+                "id": 320281400000,
+                "label": "江阴高新技术产业开发区",
+                "office": "",
+               
+                "parentId": 320281000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320281000000,320281403000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,江阴市,江苏江阴靖江工业园区",
+                "orderBy": 18,
+                "id": 320281403000,
+                "label": "江苏江阴靖江工业园区",
+                "office": "",
+               
+                "parentId": 320281000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320281000000,320281404000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,江阴市,临港经济开发区",
+                "orderBy": 19,
+                "id": 320281404000,
+                "label": "临港经济开发区",
+                "office": "",
+               
+                "parentId": 320281000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320281000000,320281405000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,江阴市,青阳园区",
+                "orderBy": 20,
+                "id": 320281405000,
+                "label": "青阳园区",
+                "office": "",
+               
+                "parentId": 320281000000
+              }
+            ],
+            "parentId": 320200000000
+          },
+          {
+            "modifiedTime": null,
+            "path": "1,32,320200000000,320282000000",
+            "createTime": null,
+            "level": 4,
+            "fullName": "中国,江苏省,无锡市,宜兴市",
+            "orderBy": 7,
+            "id": 320282000000,
+            "label": "宜兴市",
+            "office": "",
+            "childrenList": [
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320282000000,320282001000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,宜兴市,宜城街道",
+                "orderBy": 1,
+                "id": 320282001000,
+                "label": "宜城街道",
+                "office": "",
+               
+                "parentId": 320282000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320282000000,320282002000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,宜兴市,屺亭街道",
+                "orderBy": 2,
+                "id": 320282002000,
+                "label": "屺亭街道",
+                "office": "",
+               
+                "parentId": 320282000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320282000000,320282003000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,宜兴市,新庄街道",
+                "orderBy": 3,
+                "id": 320282003000,
+                "label": "新庄街道",
+                "office": "",
+               
+                "parentId": 320282000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320282000000,320282004000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,宜兴市,新街街道",
+                "orderBy": 4,
+                "id": 320282004000,
+                "label": "新街街道",
+                "office": "",
+               
+                "parentId": 320282000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320282000000,320282005000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,宜兴市,芳桥街道",
+                "orderBy": 5,
+                "id": 320282005000,
+                "label": "芳桥街道",
+                "office": "",
+               
+                "parentId": 320282000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320282000000,320282100000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,宜兴市,张渚镇",
+                "orderBy": 6,
+                "id": 320282100000,
+                "label": "张渚镇",
+                "office": "",
+               
+                "parentId": 320282000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320282000000,320282101000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,宜兴市,西渚镇",
+                "orderBy": 7,
+                "id": 320282101000,
+                "label": "西渚镇",
+                "office": "",
+               
+                "parentId": 320282000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320282000000,320282102000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,宜兴市,太华镇",
+                "orderBy": 8,
+                "id": 320282102000,
+                "label": "太华镇",
+                "office": "",
+               
+                "parentId": 320282000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320282000000,320282103000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,宜兴市,徐舍镇",
+                "orderBy": 9,
+                "id": 320282103000,
+                "label": "徐舍镇",
+                "office": "",
+               
+                "parentId": 320282000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320282000000,320282104000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,宜兴市,官林镇",
+                "orderBy": 10,
+                "id": 320282104000,
+                "label": "官林镇",
+                "office": "",
+               
+                "parentId": 320282000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320282000000,320282105000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,宜兴市,杨巷镇",
+                "orderBy": 11,
+                "id": 320282105000,
+                "label": "杨巷镇",
+                "office": "",
+               
+                "parentId": 320282000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320282000000,320282106000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,宜兴市,新建镇",
+                "orderBy": 12,
+                "id": 320282106000,
+                "label": "新建镇",
+                "office": "",
+               
+                "parentId": 320282000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320282000000,320282107000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,宜兴市,和桥镇",
+                "orderBy": 13,
+                "id": 320282107000,
+                "label": "和桥镇",
+                "office": "",
+               
+                "parentId": 320282000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320282000000,320282108000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,宜兴市,高塍镇",
+                "orderBy": 14,
+                "id": 320282108000,
+                "label": "高塍镇",
+                "office": "",
+               
+                "parentId": 320282000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320282000000,320282109000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,宜兴市,万石镇",
+                "orderBy": 15,
+                "id": 320282109000,
+                "label": "万石镇",
+                "office": "",
+               
+                "parentId": 320282000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320282000000,320282110000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,宜兴市,周铁镇",
+                "orderBy": 16,
+                "id": 320282110000,
+                "label": "周铁镇",
+                "office": "",
+               
+                "parentId": 320282000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320282000000,320282112000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,宜兴市,丁蜀镇",
+                "orderBy": 17,
+                "id": 320282112000,
+                "label": "丁蜀镇",
+                "office": "",
+               
+                "parentId": 320282000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320282000000,320282113000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,宜兴市,湖父镇",
+                "orderBy": 18,
+                "id": 320282113000,
+                "label": "湖父镇",
+                "office": "",
+               
+                "parentId": 320282000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320282000000,320282400000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,宜兴市,环科园",
+                "orderBy": 19,
+                "id": 320282400000,
+                "label": "环科园",
+                "office": "",
+               
+                "parentId": 320282000000
+              },
+              {
+                "modifiedTime": null,
+                "path": "1,32,320200000000,320282000000,320282401000",
+                "createTime": null,
+                "level": 5,
+                "fullName": "中国,江苏省,无锡市,宜兴市,宜兴经济开发区",
+                "orderBy": 20,
+                "id": 320282401000,
+                "label": "宜兴经济开发区",
+                "office": "",
+               
+                "parentId": 320282000000
+              }
+            ],
+            "parentId": 320200000000
+          }
+        ],
+        "parentId": 32
+      }
+    ],
+    "parentId": 1
+  }
+]
